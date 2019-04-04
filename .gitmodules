@@ -1,9 +1,9 @@
 [submodule "CVND-Facial-Keypoint-Detection"]
-	path = CVND-Facial-Keypoint-Detection
+	path = p1-facial-keypoint-detection
 	url = https://github.com/Michael-Tu/CVND-Facial-Keypoint-Detection.git
 [submodule "CVND-Automatic-Image-Captioning"]
-	path = CVND-Automatic-Image-Captioning
+	path = p2-automatic-image-captioning
 	url = https://github.com/Michael-Tu/CVND-Automatic-Image-Captioning.git
 [submodule "CVND-Graph-SLAM"]
-	path = CVND-Graph-SLAM
+	path = p3-landmark-detection-and-tracking
 	url = https://github.com/Michael-Tu/CVND-Graph-SLAM.git
